@@ -10,6 +10,9 @@
  
  The only language that's a bit broken is japanese romanji, as you can see there's a romanji.json file, this is because I couldn't get romkan to work and just did it manually (as in forced chatgpt to do it lol)
 
+ ![languages](https://github.com/user-attachments/assets/fe0bf21d-456a-4bd0-9c31-577a2be9c496)
+
+#
  
  To run this app you can either download the source code and just install python and the independences, the script for that is (In a CMD window):
  
