@@ -9,4 +9,8 @@
 
  To run this app you can either download the source code and just install python and the independences, the script for that is (In a CMD window)
  `pip install googletrans==4.0.0-rc1 tk pystray Pillow keyboard requests` then run the `main.py` file
- Or you can just download the exe file and run that, you don't even need python installed run it
+ Or you can just download the exe file and run that, you don't even need python installed run it (Windows defender might flag it, so if your scared of that just run the source code)
+
+ Some more notes:
+ This requires a internet connection because it needs to connect to google's api
+ This might flag anticheat if your using this to text in game chats, because this is technically a macro script, so please turn off the app if you don't want to be banned (Idk why you would use this anyways it's legit a proof of concept xd)
