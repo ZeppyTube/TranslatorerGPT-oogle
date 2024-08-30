@@ -4,7 +4,7 @@
 
  This app translates text you write in any text field to your selected output text, the options are:
  
- Arabic, Bengali, Chinese Simplified, Chinese Traditional, Dutch, English, Estonian, French, German, Gujarati, Hebrew, Hindi, Indonesian, Italian, Japanese, Japanese Romanji, Kannada, Korean, Malay, Marathi, Norwegian, Polish, Portuguese, Punjabi, Russian, Spanish, Tamil, Telugu, Thai, Turkish, Urdu, Vietnamese and Welsh.
+ `Arabic, Bengali, Chinese Simplified, Chinese Traditional, Dutch, English, Estonian, French, German, Gujarati, Hebrew, Hindi, Indonesian, Italian, Japanese, Japanese Romanji, Kannada, Korean, Malay, Marathi, Norwegian, Polish, Portuguese, Punjabi, Russian, Spanish, Tamil, Telugu, Thai, Turkish, Urdu, Vietnamese and Welsh.`
  
  You can add more languages if you want by editing the settings.py file
  
