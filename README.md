@@ -16,7 +16,7 @@
  
  `pip install googletrans==4.0.0-rc1 tk pystray Pillow keyboard requests` then run the `main.py` file
  
- Or you can just download the exe file and run that, you don't even need python installed run it (Windows defender might flag it, so if your scared of that just run the source code)
+ Or you can just download the exe file and run that, you don't even need python installed to run it (Windows defender might flag it, so if your scared of that just run the source code)
 
 # ACTUAL USE
 
