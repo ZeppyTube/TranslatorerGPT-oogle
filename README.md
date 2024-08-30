@@ -17,6 +17,10 @@
  
  Or you can just download the exe file and run that, you don't even need python installed run it (Windows defender might flag it, so if your scared of that just run the source code)
 
+# ACTUAL USE
+
+When using the app, you just open it, input your output language, then start typing anywhere and when it detects you stop typing for a full second, it'll replace the text with the translated text
+
  Some more notes:
  - This requires a internet connection because it needs to connect to google's api
  - This might flag anticheat if your using this to text in game chats, because this is technically a macro script, so please turn off the app if you don't want to be banned (Idk why you would use this anyways it's legit a proof of concept xd)
